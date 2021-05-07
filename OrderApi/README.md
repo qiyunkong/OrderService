@@ -13,7 +13,6 @@ https://www.yuque.com/docs/share/f7953a48-4eb2-41ca-b08d-735af5b2a53a
 
 
 项目规范：
-<<<<<<< HEAD
 	RESTful 架构详解  https://www.runoob.com/w3cnote/restful-architecture.html
 
 
@@ -28,6 +27,6 @@ orm 映射框架
 
  Pomelo.EntityFrameworkCore.MySql
 	https://blog.csdn.net/weixin_30640769/article/details/97139838
-=======
+
 	RESTful 架构详解  https://www.runoob.com/w3cnote/restful-architecture.html
->>>>>>> cb349e3a1eea46fa5c9d156c1df27ad42e2e8bf6
+
