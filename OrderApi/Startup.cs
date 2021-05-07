@@ -29,10 +29,13 @@ namespace OrderApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+<<<<<<< HEAD
 
             //注册数据库连接
             //services.AddDbContext<>(options => options.UseMySql(Configuration.GetConnectionString("MySql")));
 
+=======
+>>>>>>> cb349e3a1eea46fa5c9d156c1df27ad42e2e8bf6
             services.AddControllers();
 
             //配置Swagger
