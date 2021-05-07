@@ -8,8 +8,4 @@
     <Folder Include="wwwroot\ImagePath\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.0.1" />
-  </ItemGroup>
-
 </Project>
